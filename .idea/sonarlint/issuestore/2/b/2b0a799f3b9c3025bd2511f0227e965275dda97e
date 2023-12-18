@@ -1,0 +1,16 @@
+
+l
+java:S1192"JDefine a constant instead of duplicating this literal "Windows 8" 3 times.(¼¦é°şÿÿÿÿ8ÀùµîÇ1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "Windows 11" 3 times.(¼¦é°şÿÿÿÿ8ÀùµîÇ1
+h
+java:S1192"FDefine a constant instead of duplicating this literal "amd64" 3 times.(‹áßèşÿÿÿÿ8ÀùµîÇ1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "Windows 10" 3 times.(¼¦é°şÿÿÿÿ8ÁùµîÇ1
+p
+java:S1104"SMake browser a static final constant or non-public and provide accessors if needed.(œÆî8ÁùµîÇ1
+J
+java:S1444"-Make this "public static browser" field final(œÆî8ÁùµîÇ1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(èÁ²ˆùÿÿÿÿ8ÇùµîÇ1
+G	java:S106"+Replace this use of System.out by a logger.(ŞÖšŒ8ÏùµîÇ1

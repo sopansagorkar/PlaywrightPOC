@@ -1,0 +1,13 @@
+
+u
+java:S1192	"SDefine a constant instead of duplicating this literal "User Navigates to " 5 times.(êÆŒÀüÿÿÿÿ8ÇÚûíÇ1
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê§ç”
+L	java:S106	"+Replace this use of System.out by a logger.(êÆŒÀüÿÿÿÿ8Æ³öíÇ1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹êÂéøÿÿÿÿ8ş‚öíÇ1
+L	java:S106"+Replace this use of System.out by a logger.(êÆŒÀüÿÿÿÿ8ËšûíÇ1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôı„Ì8ƒöíÇ1
+L	java:S106"+Replace this use of System.out by a logger.(êÆŒÀüÿÿÿÿ8äÚûíÇ1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆú¬8ƒƒöíÇ1
+L	java:S106"+Replace this use of System.out by a logger.(îÜÂÿÿÿÿÿ8ñ³üíÇ1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ùçğùÿÿÿÿ8…ƒöíÇ1
+L	java:S106"+Replace this use of System.out by a logger.(îÜÂÿÿÿÿÿ8¢ıíÇ1
